@@ -17,4 +17,4 @@ Matching the UART baud rate and buffer handling between the PIC and ESP32 to avo
 ## Media
 - `setup_photo_pc_oscilloscope.jpg` — PIC18F452 + ESP32 + PC setup
 - `plot_screenshot_pc.png` — real-time waveform reconstruction
-- `demo.mp4` — working demo
+- `demo_pc.mp4` — working demo
