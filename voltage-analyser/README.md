@@ -15,6 +15,5 @@ Successfully reconstructed input waveforms in real time on the PC, validated aga
 Matching the UART baud rate and buffer handling between the PIC and ESP32 to avoid sample loss at higher input frequencies.
 
 ## Media
-- `setup_photo_pc_oscilloscope.jpg` — PIC18F452 + ESP32 + PC setup
-- `plot_screenshot_pc.png` — real-time waveform reconstruction
-- `demo_pc.mp4` — working demo
+![PIC18F452 + ESP32 + PC setup](setup_photo_pc_oscilloscope.heic)
+[demo_pc.mp4](demo_pc.mp4)
