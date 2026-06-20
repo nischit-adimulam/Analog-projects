@@ -15,4 +15,4 @@ Delivered a stable, regulated 12V DC output, confirmed via multimeter.
 Designing and building the inductor to its calculated value and making it work.
 
 ## Media
-- `circuit_photo_buck.jpg` — full cascade build
+![Full cascade build](circuit_photo_buck.jpeg)
