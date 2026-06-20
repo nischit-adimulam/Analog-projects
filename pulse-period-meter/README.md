@@ -13,7 +13,5 @@ Accurately measured and displayed input pulse periods in the 1 ms – 7 ms range
 
 ## Challenges
 Designing the gating logic to reset and re-trigger cleanly between successive pulses without measurement glitches.
-
 ## Media
-- `circuit_photo_dcs.jpg` — full digital logic build
-- `demo_dcs.mp4` — working demo
+![Full digital logic build](circuit_photo_dcs.jpg)
