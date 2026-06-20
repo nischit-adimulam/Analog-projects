@@ -15,5 +15,6 @@ Stable, independently tunable frequency and duty cycle confirmed on oscilloscope
 Maintaining clean switching at the upper end and lower end of the frequency range and duty ratio. 
 
 ## Media
-- `circuit_photo_pwm.jpg` — breadboard build
+- `circuit_photo_pwm.jpeg` — breadboard build
 - `scope_output.jpg` — waveform output
+- `simulation_pwm.jpg` — simulation
